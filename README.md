@@ -4,4 +4,4 @@ A deep learning platform for the analysis of NGS data (or any biological sequenc
 ETA - code will be posted on 10th of June.
 
 
-For questions - artemd(at)mail.tau.ac.il
+For any questions - artemd(at)mail.tau.ac.il
